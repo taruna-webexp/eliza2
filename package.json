@@ -98,6 +98,7 @@
         "@deepgram/sdk": "^3.11.1",
         "@elizaos-plugins/adapter-sqlite": "workspace:*",
         "@elizaos-plugins/client-twitter": "github:elizaos-plugins/client-twitter",
+        "@elizaos/core": "^0.25.9",
         "@injectivelabs/sdk-ts": "^1.14.33",
         "@vitest/eslint-plugin": "1.0.1",
         "agent-twitter-client": "^0.0.18",
